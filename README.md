@@ -2,6 +2,8 @@
 
 > I am in role of the Code Reviewer
 
+![screenshot](./scrnsht_trial_project.png)
+
 👤 **Elamar Abdulkarimov**
 
 - GitHub: [@elmar8287](https://github.com/elmar8287)
