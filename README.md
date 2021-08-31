@@ -1,8 +1,8 @@
 # Review one of my trial project
 
-> I am in role of the Code Reviewer
+>Simple one page informative page
 
-![screenshot](./scrnsht_trial_project.png)
+![screenshot](./screen_shot.PNG)
 
 👤 **Elmar Abdulkarimov**
 
