@@ -1,6 +1,7 @@
 # Review one of my trial project
 
 >Simple one page informative page
+>You can see, that all tests passed (look screen shot below)
 
 ![screenshot](./screen_shot.PNG)
 
