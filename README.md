@@ -11,8 +11,6 @@
 ## Built With
 
 - Major languages
-- Frameworks
-- Technologies used
 
 ## Live Demo
 
